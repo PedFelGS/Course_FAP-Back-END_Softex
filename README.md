@@ -20,7 +20,7 @@
 
   </details>
 
-<details> <summary>SEC 2 - Introdução a Programação</summary>
+- <details> <summary>SEC 2 - Introdução a Programação</summary>
 
 - [ ] Compreender conceitos lógicos da programação de sistemas.
 - [ ] Identificar as etapas do sistema de programação de um algoritmo estruturado e não estruturado. `CodePark 01`
