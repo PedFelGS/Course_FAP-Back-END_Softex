@@ -47,3 +47,11 @@ function CorsPessoas(pessoaCor1, pessoaCor2, pessoaCor3, pessoaCor4, pessoaCor5,
 
 CorsPessoas("azul", "verde", "amarelo", "roxo", "marrom", "vermelho", "verde", "azul", "amarelo", "vermelho")
 ```
+
+***
+
+<details> <summary>Tags</summary>
+
+[[SEC 3 - Algoritmo e Estrutura de Dados]]
+
+</details>

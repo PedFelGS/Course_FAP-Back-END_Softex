@@ -40,3 +40,11 @@ if (quantidadeRodas === 2 || quantidadeRodas === 3) {
   console.log("Categoria não determinada");
 }
 ```
+
+***
+
+<details> <summary>Tags</summary>
+
+[[SEC 2 - Introdução a Programação]]
+
+</details>

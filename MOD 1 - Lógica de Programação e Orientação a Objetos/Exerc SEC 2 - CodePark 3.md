@@ -28,3 +28,11 @@ if (media < 7) {
   console.log(`O aluno ${nomeAluno} por possuir ${media} pontos, nota acima da média exigida, está APROVADO!`)
 }
 ```
+
+***
+
+<details> <summary>Tags</summary>
+
+[[SEC 2 - Introdução a Programação]]
+
+</details>

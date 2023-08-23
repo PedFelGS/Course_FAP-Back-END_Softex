@@ -26,3 +26,11 @@ while(true) {
   }
 }
 ```
+
+***
+
+<details> <summary>Tags</summary>
+
+[[SEC 2 - Introdução a Programação]]
+
+</details>

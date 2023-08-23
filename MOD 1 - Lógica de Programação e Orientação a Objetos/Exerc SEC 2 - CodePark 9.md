@@ -59,3 +59,11 @@ console.log(`\n---- Total Votação: ----\n\n Candidato X: ${candidatosVotos.Can
 
 console.log(`\n${candidatoVencedor} foi o candidato vencedor da eleição!`)
 ```
+
+***
+
+<details> <summary>Tags</summary>
+
+[[SEC 2 - Introdução a Programação]]
+
+</details>

@@ -40,3 +40,11 @@ function exibirInfo() {
 
 exibirInfo()
 ```
+
+***
+
+<details> <summary>Tags</summary>
+
+[[SEC 3 - Algoritmo e Estrutura de Dados]]
+
+</details>

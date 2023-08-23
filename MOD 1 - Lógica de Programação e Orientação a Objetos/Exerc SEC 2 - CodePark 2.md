@@ -18,3 +18,11 @@ let maiorIdade = true
 
 console.log(`${nome} tem ${idade} anos e ${altura} de altura. É maior de idade? ${maiorIdade}`)
 ```
+
+***
+
+<details> <summary>Tags</summary>
+
+[[SEC 2 - Introdução a Programação]]
+
+</details>
