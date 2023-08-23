@@ -30,3 +30,9 @@ Expressões:
 
 	() Jogador 4: (pontos != 100) or (moedas != 5) or not (enfrentou_chefe == Não)
 		(V) = (V) or (V) or not (V)
+
+<details> <summary>Tags</summary>
+
+[[SEC 1 - Lógica Imperativa]]
+
+</details>

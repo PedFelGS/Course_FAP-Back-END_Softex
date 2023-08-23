@@ -1,4 +1,3 @@
-[[CodePark]]
 # Instruções do projeto
 
 ``` yaml
@@ -22,3 +21,9 @@ Analisando as imagens 1 e 2, podemos perceber a existência de um padrão na dis
 Ao observarmos as fileiras verticalmente na imagem 2, notamos que há um padrão de 4 alunos de um grupo e 2 alunos do grupo divergente em cada fileira, totalizando 6 alunos por fileira. Esse padrão se repete de fileira a fileira, mas com uma alternância da predominância dos grupos a cada linha sucessiva.
 
 No entanto, com a saída do professor, percebemos uma quebra no padrão. Dois alunos de grupos diferentes trocaram de grupo e lugares: o aluno que estava na terceira fileira, do grupo de português, assento 4, trocou de lugar e grupo com o aluno do grupo de matemática do assento 5 da quinta fileira, rompendo com o padrão estabelecido em comparação com as outras fileiras de alunos, sendo desta forma percebido pelo professor.
+
+<details> <summary>Tags</summary>
+
+[[SEC 1 - Lógica Imperativa]]
+
+</details>

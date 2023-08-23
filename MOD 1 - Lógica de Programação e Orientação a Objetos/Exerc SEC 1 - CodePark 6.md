@@ -45,3 +45,9 @@ if (pergunta1 == "Sim") {
 	}
 }
 ```
+
+<details> <summary>Tags</summary>
+
+[[SEC 1 - Lógica Imperativa]]
+
+</details>

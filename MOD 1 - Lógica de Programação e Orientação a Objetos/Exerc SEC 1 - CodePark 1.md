@@ -1,4 +1,3 @@
-[[CodePark]]
 # Instruções do projeto
 
 ``` yaml
@@ -45,3 +44,12 @@ Com as duas disciplinas de Matemática e Física com todas as suas posições j�
 	1. Sócrates
 	2. Aristóteles
 	3. Platão
+
+***
+
+<details> <summary>Tags</summary>
+
+[[SEC 1 - Lógica Imperativa]]
+
+</details>
+
