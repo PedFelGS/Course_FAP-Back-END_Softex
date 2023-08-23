@@ -37,7 +37,11 @@
   </details>
 
 - <details> <summary>SEC 3 - Algoritmo e Estrutura de Dados</summary>
-    
+  - [ ] Arrays
+  - [ ] Matrizes
+  - [ ] Listas, Pilhas e Filas
+  - [ ] Estruturas dinâmicas
+  - [ ] Algoritmos de busca
   </details>
 
 </details>
