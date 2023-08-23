@@ -30,7 +30,6 @@ Com as duas disciplinas de Matemática e Física com todas as suas posições j�
 
 - ## Resposta:
 
-
 ### Física:
 	1. Aristóteles
 	2. Platão
