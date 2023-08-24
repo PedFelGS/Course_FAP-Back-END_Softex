@@ -22,17 +22,17 @@
 
 - <details> <summary>SEC 2 - Introdução a Programação</summary>
 
-- [ ] Compreender conceitos lógicos da programação de sistemas.
-- [ ] Identificar as etapas do sistema de programação de um algoritmo estruturado e não estruturado. `CodePark 01`
-- [ ] Compreender a construção de um ambiente de desenvolvimento.
-- [ ] Conhecer os tipos básicos de variáveis em um código de programação. `CodePark 02`
-- [ ] Identificar os diferentes tipos de operadores. `CodePark 03`
-- [ ] Dominar as diferentes estruturas condicionais lógicas. `CodePark 04`
-- [ ] Executar laços de repetição. `CodePark 05`
-- [ ] Executar funções de códigos. `CodePark 06`
-- [ ] Realizar entrada e saída de dados do usuário. `CodePark 07`
-- [ ] Contornar problemas previstos no sistema. `CodePark 08`
-- [ ] Elaborar tipos artificiais de dados. `CodePark 09`
+  - [ ] Compreender conceitos lógicos da programação de sistemas.
+  - [ ] Identificar as etapas do sistema de programação de um algoritmo estruturado e não estruturado. `CodePark 01`
+  - [ ] Compreender a construção de um ambiente de desenvolvimento.
+  - [ ] Conhecer os tipos básicos de variáveis em um código de programação. `CodePark 02`
+  - [ ] Identificar os diferentes tipos de operadores. `CodePark 03`
+  - [ ] Dominar as diferentes estruturas condicionais lógicas. `CodePark 04`
+  - [ ] Executar laços de repetição. `CodePark 05`
+  - [ ] Executar funções de códigos. `CodePark 06`
+  - [ ] Realizar entrada e saída de dados do usuário. `CodePark 07`
+  - [ ] Contornar problemas previstos no sistema. `CodePark 08`
+  - [ ] Elaborar tipos artificiais de dados. `CodePark 09`
 
 </details>
 
