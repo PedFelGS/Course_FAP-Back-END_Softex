@@ -23,16 +23,16 @@
 - <details> <summary>SEC 2 - Introdução a Programação</summary>
 
   - [ ] Compreender conceitos lógicos da programação de sistemas.
-  - [ ] Identificar as etapas do sistema de programação de um algoritmo estruturado e não estruturado. `CodePark 01`
+  - [ ] Identificar as etapas do sistema de programação de um algoritmo estruturado e não estruturado. [`CodePark 01`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%202%20-%20CodePark%201%20%5BIMG%5D.md)
   - [ ] Compreender a construção de um ambiente de desenvolvimento.
-  - [ ] Conhecer os tipos básicos de variáveis em um código de programação. `CodePark 02`
-  - [ ] Identificar os diferentes tipos de operadores. `CodePark 03`
-  - [ ] Dominar as diferentes estruturas condicionais lógicas. `CodePark 04`
-  - [ ] Executar laços de repetição. `CodePark 05`
+  - [ ] Conhecer os tipos básicos de variáveis em um código de programação. [`CodePark 02`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%202%20-%20CodePark%202.md)
+  - [ ] Identificar os diferentes tipos de operadores. [`CodePark 03`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%202%20-%20CodePark%203.md)
+  - [ ] Dominar as diferentes estruturas condicionais lógicas. [`CodePark 04`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%202%20-%20CodePark%204.md)
+  - [ ] Executar laços de repetição. [`CodePark 05`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%202%20-%20CodePark%205.md)
   - [ ] Executar funções de códigos. `CodePark 06`
   - [ ] Realizar entrada e saída de dados do usuário. `CodePark 07`
-  - [ ] Contornar problemas previstos no sistema. `CodePark 08`
-  - [ ] Elaborar tipos artificiais de dados. `CodePark 09`
+  - [ ] Contornar problemas previstos no sistema. [`CodePark 08`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%202%20-%20CodePark%208.md)
+  - [ ] Elaborar tipos artificiais de dados. [`CodePark 09`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%202%20-%20CodePark%209.md)
 
   </details>
 
