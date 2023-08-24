@@ -55,6 +55,8 @@ rendaBruta = Number(prompt("Digite a sua renda bruta: "))
 console.log(`Eu sou o(a) ${nome} residente da cidade de ${cidade}, me encontro mais precisamente no endereço ${endereco}. Os documentos que possuo são o RG (${rg}) e CPF (${cpf}). Sou filho(a) de ${nomePai} e ${nomeMãe}. Atualmente, tenho ${idade} anos e meu peso é de ${peso}. Minha renda bruta mensal é de $${rendaBruta}.`)
 ```
 
+***
+
 <details> <summary>Tags</summary>
 
 [[SEC 1 - Lógica Imperativa]]

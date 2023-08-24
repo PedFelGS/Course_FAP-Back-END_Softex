@@ -60,6 +60,8 @@ console.log("Altura:", altura)
 console.log("Endereço:", endereco)
 ```
 
+***
+
 <details> <summary>Tags</summary>
 
 [[SEC 1 - Lógica Imperativa]]
