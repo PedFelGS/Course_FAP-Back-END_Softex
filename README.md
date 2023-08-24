@@ -6,19 +6,19 @@
 
 <details> <summary>MOD 1 - Lógica de Programação e Orientação a Objetos</summary>
 
-<details> <summary>SEC 1 - Lógica Imperativa</summary>
+- <details> <summary>SEC 1 - Lógica Imperativa</summary>
   
-- [ ]  Entender a importância da lógica
-- [ ]  Usar a lógica para realizar ações simples e definir o passo a passo das ações `CodePark 01`
-- [ ]  Compreender o pensamento computacional e as estratégias de raciocínio `CodePark 02`
-- [ ]  Definir precisamente o caminho a seguir e de que forma como acontece na criação de algoritmos
-- [ ]  Usar expressões aritméticas que envolvem situações do cotidiano; E reservar espaços para alocar dados `CodePark 03`
-- [ ]  Entender a importância de dados para conclusão de objetivos, assim como compreender o momento de usar esses dados e quando gerar um resultado `CodePark 04`
-- [ ]  Comprender o raciocínio lógico para resolução de problemas usando apenas V ou F `CodePark 05`
-- [ ]  Entender as situações do cotidiano em que envolve seleções e perceber os caminhos para tomada de decisão `CodePark 06`
-- [ ]  Usar métodos de repetição sempre que necessário para facilitar as situações que aparecem no decorrer do dia, a fim de agilizar os processos `CodePark 07`
+  - [ ]  Entender a importância da lógica
+  - [ ]  Usar a lógica para realizar ações simples e definir o passo a passo das ações `CodePark 01`
+  - [ ]  Compreender o pensamento computacional e as estratégias de raciocínio `CodePark 02`
+  - [ ]  Definir precisamente o caminho a seguir e de que forma como acontece na criação de algoritmos
+  - [ ]  Usar expressões aritméticas que envolvem situações do cotidiano; E reservar espaços para alocar dados `CodePark 03`
+  - [ ]  Entender a importância de dados para conclusão de objetivos, assim como compreender o momento de usar esses dados e quando gerar um resultado `CodePark 04`
+  - [ ]  Comprender o raciocínio lógico para resolução de problemas usando apenas V ou F `CodePark 05`
+  - [ ]  Entender as situações do cotidiano em que envolve seleções e perceber os caminhos para tomada de decisão `CodePark 06`
+  - [ ]  Usar métodos de repetição sempre que necessário para facilitar as situações que aparecem no decorrer do dia, a fim de agilizar os processos `CodePark 07`
 
-</details>
+  </details>
 
 <details> <summary>SEC 2 - Introdução a Programação</summary>
 
