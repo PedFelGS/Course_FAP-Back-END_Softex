@@ -9,14 +9,14 @@
 - <details> <summary>SEC 1 - Lógica Imperativa</summary>
   
   - [ ]  Entender a importância da lógica
-  - [ ]  Usar a lógica para realizar ações simples e definir o passo a passo das ações `CodePark 01`
-  - [ ]  Compreender o pensamento computacional e as estratégias de raciocínio `CodePark 02`
+  - [ ]  Usar a lógica para realizar ações simples e definir o passo a passo das ações [`CodePark 01`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%201%20-%20CodePark%201.md)
+  - [ ]  Compreender o pensamento computacional e as estratégias de raciocínio [`CodePark 02`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%201%20-%20CodePark%202.md)
   - [ ]  Definir precisamente o caminho a seguir e de que forma como acontece na criação de algoritmos
-  - [ ]  Usar expressões aritméticas que envolvem situações do cotidiano; E reservar espaços para alocar dados `CodePark 03`
-  - [ ]  Entender a importância de dados para conclusão de objetivos, assim como compreender o momento de usar esses dados e quando gerar um resultado `CodePark 04`
-  - [ ]  Comprender o raciocínio lógico para resolução de problemas usando apenas V ou F `CodePark 05`
-  - [ ]  Entender as situações do cotidiano em que envolve seleções e perceber os caminhos para tomada de decisão `CodePark 06`
-  - [ ]  Usar métodos de repetição sempre que necessário para facilitar as situações que aparecem no decorrer do dia, a fim de agilizar os processos `CodePark 07`
+  - [ ]  Usar expressões aritméticas que envolvem situações do cotidiano; E reservar espaços para alocar dados [`CodePark 03`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%201%20-%20CodePark%203.md)
+  - [ ]  Entender a importância de dados para conclusão de objetivos, assim como compreender o momento de usar esses dados e quando gerar um resultado [`CodePark 04`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%201%20-%20CodePark%204.md)
+  - [ ]  Comprender o raciocínio lógico para resolução de problemas usando apenas V ou F [`CodePark 05`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%201%20-%20CodePark%205.md)
+  - [ ]  Entender as situações do cotidiano em que envolve seleções e perceber os caminhos para tomada de decisão [`CodePark 06`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%201%20-%20CodePark%206.md)
+  - [ ]  Usar métodos de repetição sempre que necessário para facilitar as situações que aparecem no decorrer do dia, a fim de agilizar os processos [`CodePark 07`](https://github.com/PedFelGS/Course_FAP-Back-END_Softex/blob/main/MOD%201%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/Exerc%20SEC%201%20-%20CodePark%207.md)
 
   </details>
 
@@ -34,11 +34,11 @@
   - [ ] Contornar problemas previstos no sistema. `CodePark 08`
   - [ ] Elaborar tipos artificiais de dados. `CodePark 09`
 
-</details>
+  </details>
 
-<details> <summary>SEC 3 - Algoritmo e Estrutura de Dados</summary>
-  
-</details>
+- <details> <summary>SEC 3 - Algoritmo e Estrutura de Dados</summary>
+    
+  </details>
 
 </details>
 
