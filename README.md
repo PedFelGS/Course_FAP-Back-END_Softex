@@ -66,3 +66,12 @@
 <details> <summary>MOD 6 - Introdução a Web Services</summary>
 
 </details>
+
+***
+
+
+<details> <summary>Learning Projects</summary>
+
+  - [ ] Calculadora de Férias [`Netlify`](https://thriving-bunny-6676cb.netlify.app/)
+
+</details>
