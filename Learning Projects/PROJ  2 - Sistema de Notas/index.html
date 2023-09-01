@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<main>
+		<section class="section-form">
+			<div class="container">
+				<header class="form-header">
+					<h1>FACAPE - Sistema de notas</h1>
+				</header>
+			</div>
+			<div class="container">
+				<div class="form-content">
+					<div class="block-item">
+						<p>Nota 1:</p>
+						<input id="nota1" type="number" min="0" max="10" maxlength="2">
+					</div>
+					<div class="block-item">
+						<p>Nota 2:</p>
+						<input id="nota2" type="number" min="0" max="10" maxlength="2">
+					</div>
+					<div class="block-item">
+						<p>Nota 3:</p>
+						<input id="nota3" type="number" min="0" max="10" maxlength="2">
+					</div>
+					<div class="form-button">
+						<button onclick="media()">Média</button>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="form-output">
+					<div class="block-title">
+						<p>Resultado:</p>
+					</div>
+					<div class="block-output">
+						<span id="media" type="number"></span>
+						<span id="feedback"></span>
+					</div>
+				</div>
+			</div>
+		</section>
+	</main>
+    <script src="media.js"></script>
+</body>
+</html>
