@@ -73,5 +73,6 @@
 <details> <summary>Learning Projects</summary>
 
   - [ ] Calculadora de Férias [`Netlify`](https://thriving-bunny-6676cb.netlify.app/)
+  - [ ] Sistema de Notas `Code`
 
 </details>
