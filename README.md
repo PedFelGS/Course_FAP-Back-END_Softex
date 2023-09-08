@@ -49,6 +49,60 @@
 
 <details> <summary>MOD 2 - JavaScript</summary>
 
+- <details> <summary>SEC 1 - Manipulação de dados em JavaScript</summary>
+
+  - [ ] Conhecer a história do JavaScript e compreender suas funções básicas.
+  - [ ] Identificar a finalidade da linguagem para o contexto web.
+  - [ ] Diferenciar os ambientes existentes para desenvolvimento em JavaScript.
+  - [ ] Compreender o funcionamento de dados em Javascript.
+  - [ ] Diferenciar os tipos de dados.
+  - [ ] Compreender a funcionalidade de variáveis. 
+  </details>
+
+- <details> <summary>SEC 2 - Estruturas e variáveis em JavaScript</summary>
+
+  - [ ] Compreender linguagens baseada em JavaScript.
+  - [ ] Diferenciar os tipos de operadores em JavaScript.
+  - [ ] Entender a caracteristicas de variaveis no Javascript.
+  - [ ] Diferenciar os tipos de atribuição em uma variável.
+  </details>
+
+- <details> <summary>SEC 3 - Utilizando padrões</summary>
+
+  - [ ] Saber organizar a maquina para programar.
+  - [ ] Saber Utilizar a linguagem em conjunto com o HTML.
+  - [ ] Aplicar as funções em seu código.
+  </details>
+
+- <details> <summary>SEC 4 - Desenvolvimento Web, Loops e Bibliotecas</summary>
+
+  - [ ] Conhecer a estrutura de um objeto.
+  - [ ] Identificar arrays durante sua programação.
+  - [ ] Conhecer como se dá a comunicação do back-end com o front-end.
+  - [ ] Utilizar os metodos HTTP em sua programação.
+  - [ ] Conseguir utilizar framework no seu projeto.
+  - [ ] Conhecer a diferença das estruturas de repetição em JavaScript.
+  - [ ] Conseguir conectar o banco de dados em seu programa.
+  </details>
+
+- <details> <summary>SEC 5 - Programação Orientada a Objetos</summary>
+
+  - [ ] Compreender e implementar tipos abstratos de dados.
+  - [ ] Assimilar a lógica de programação orientada a objetos.
+  - [ ] Definir como o atributo ou método se comporta dentro de programas.
+  - [ ] Entender a função de cada tipo de visibilidade.
+  - [ ] Compreender a funcionalidade de atributos e métodos estáticos.
+  - [ ] Identificar a necessidade de utilizar as estruturas de controle e decisão.
+  - [ ] Assimilar a função do método construtor e da sobrecarga.
+  - [ ] Compreender a finalidade da Herança.
+  - [ ] Entender o que são classes abstratas e interfaces.
+  - [ ] Compreender a funcionalidade de Pacotes.
+  - [ ] Associar a função de Vetores e Matrizes.
+  - [ ] Diferenciar as formas de manipulação de strings.
+  - [ ] Compreender a funcionalidade de Collections (Set, List, Queue, Stack e Map).
+  - [ ] Conceituar o que é tratamento de exceções.
+  </details>
+
 </details>
 
 <details> <summary>MOD 3 - Padrões de Desenvolvimento de Software</summary>
